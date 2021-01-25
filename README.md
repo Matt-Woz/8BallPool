@@ -14,6 +14,3 @@ the ball either:
 
 While the left mouse button allows the players to shoot the ball, with
 the power being determined using the length of the line drawn from the ball.
-
-# How to compile and run:
-- 
